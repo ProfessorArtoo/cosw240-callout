@@ -1,0 +1,12 @@
+{
+  "apiVersion": 3,
+  "name": "cosw240/callout",
+  "title": "Callout",
+  "category": "text",
+  "icon": "megaphone",
+  "attributes": {
+    "message": { "type": "string", "source": "html", "selector": "p" }
+  },
+  "editorScript": "file:./index.js",
+  "style": "file:./style.css"
+}
