@@ -12,7 +12,7 @@ My name is Rosana and I'm planning to get an Associate's Degree in Web Developme
 
 ## A Website I Like
 
-[Magma]([https://example.com](https://magma.com/)) - I like this website because you can draw with other people live.
+[Magma](https://magma.com/) - I like this website because you can draw with other people live.
 
 ## My First Git Commands
 
