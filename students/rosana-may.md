@@ -2,18 +2,17 @@
 
 ## About Me
 
-Two or three sentences about yourself, such as your program or major and
-what got you interested in web development.
+My name is Rosana and I'm planning to get an Associate's Degree in Web Development. My interest in web development came from me trying Computer Science in high school. My peers told me I was good at coding and enjoyed it so I thought I would continue my knowledge in college.
 
 ## Three Things I Want to Learn in This Class
 
-- First thing
-- Second thing
-- Third thing
+- Coding
+- Wordpress
+- Technology
 
 ## A Website I Like
 
-[Website name](https://example.com) - one sentence about why you like it.
+[Magma]([https://example.com](https://magma.com/)) - I like this website because you can draw with other people live.
 
 ## My First Git Commands
 
