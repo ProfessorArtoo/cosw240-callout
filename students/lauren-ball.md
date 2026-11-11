@@ -12,7 +12,7 @@ I am a music creative and record label founder who has returned to school to ear
 
 ## A Website I Like
 
-[Pont Fuba ](https://pontafuba.com) - A great use of color, patterns, and typography without becoming overstimulating.
+Pont Fuba (https://pontafuba.com) - A great use of color, patterns, and typography without becoming overstimulating.
 
 ## My First Git Commands
 
