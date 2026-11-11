@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a music creative and record label founder who has returned to school to earn a full stack web development certifcation. My interest in WebDeve began with no-code database design and automation for myself and my artists. 
+I am a music creative and record label founder who has returned to school to earn a full stack web development certifcation. My interest in WebDeve began with no-code database design and automation for myself and my artists. I want to build more powerful backend tools to support internal workflows and digital marketing assets.
 
 ## Three Things I Want to Learn in This Class
 
