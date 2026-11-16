@@ -9,7 +9,7 @@ web development and coding, because it would make a good career, and I also thou
 
 - Wordpress
 - Git
-- PHP tricks for Wordpress
+- PHP tricks 
 
 ## A Website I Like
 
